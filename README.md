@@ -30,7 +30,7 @@ E também estou disponível para troca de conhecimentos com o que eu já aprendi
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;
  <a href="https://instagram.com/carol_feldhaus">
    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp;
-  <a href="https://carolinefe@hotmail.com">
+  <a href="mailto:carolinefe@hotmail.com">
    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>&nbsp;&nbsp;
   
 
