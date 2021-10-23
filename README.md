@@ -9,15 +9,34 @@ Já que você chegou até aqui, que tal me conhecer?
 - :pirate_flag: Apreciadora de bons animes
 - :guitar: Amante de boa musica
 
+<p>
+  
+  Trabalho com:
+  
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> </a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>&nbsp;&nbsp;
+  
+</p>
 
 Eu ainda sou novata, então aceito feedbacks desde já! :smirk_cat:
-<p>E também estou disponível para troca de conhecimentos com o que eu já aprendi.
+<p>
+E também estou disponível para troca de conhecimentos com o que eu já aprendi.
 
-#### E se você quiser mais contato comigo, pode me chamar no LinkedIn! 
-
-<a href="https://www.linkedin.com/in/caroline-feldhaus-de-souza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
+#### E se você quiser mais contato comigo, pode me chamar nos meus contatos! 
+  
+<p>
+  
+ <a href="https://www.linkedin.com/in/caroline-feldhaus-de-souza">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;
+ <a href="https://instagram.com/carol_feldhaus">
+   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp;
+  <a href="https://carolinefe@hotmail.com">
+   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>&nbsp;&nbsp;
+  
 
 Até logo! :alien:
+  
+<a href="*"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfeldhaus&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&)" width="350"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolfeldhaus&layout=compact)](https://github.com/carolfeldhaus/github-readme-stats)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=carolfeldhaus&show_icons=true&count_private=true&theme=midnight-purple" width="350"></a>
+  
